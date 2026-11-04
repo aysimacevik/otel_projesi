@@ -1,13 +1,23 @@
-# 🏨 Otel Rezervasyon Yönetim Sistemi (Hotel Reservation Database)
+# 🏨 Hotel Reservation Management System
 
-Bu proje, veritabanı yönetim sistemleri dersi kapsamında geliştirilmiş tam kapsamlı bir **Otel Rezervasyon ve Yönetim Otomasyonudur**[cite: 1].
+This project is a comprehensive **Hotel Reservation and Management Automation** developed for database management systems coursework.
 
-## 🚀 Kullanılan Teknolojiler
-* **Python** (Backend)[cite: 1]
-* **Streamlit** (Modern Web Arayüzü)
-* **SQLite** (İlişkisel Veritabanı)[cite: 1]
+## 🚀 Technologies Used
+* **Python** (Backend Logic)
+* **Streamlit** (Modern Web Interface)
+* **SQLite** (Relational Database Management System)
+* **Pandas** (Data Analysis and Tables)
 
-## ✨ Özellikler
-* Otel odası listeleme ve anlık müsaitlik takibi[cite: 1].
-* Yeni müşteri kaydı ve rezervasyon oluşturma[cite: 1].
-* SQL JOIN ve raporlama ekranları[cite: 1].
+## ✨ Features
+* 🛏️ Hotel room listing and real-time availability tracking.
+* 📝 New customer registration and reservation management.
+* 🔄 Dynamic room status updates.
+* 📊 Advanced SQL reporting screens featuring **JOIN** and **GROUP BY** operations.
+
+## ⚙️ Installation & Running
+
+Follow these steps to run the project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/aysimacevik/otel_projesi.git](https://github.com/aysimacevik/otel_projesi.git)
